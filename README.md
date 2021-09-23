@@ -1,3 +1,3 @@
 # SpringBootPostmanRest
 CRUD Project using rest and Postman
-POST PUT GET DELETE operations to manager customer database.(SQL and H2)
+POST PUT GET DELETE operations to manage customer database.(SQL and H2)
